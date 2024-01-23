@@ -1,4 +1,4 @@
-## Computer Engineer | React.JS Enthusiast | UX/UI Advocate
+## 🖥️ Computer Engineer | ⚛️ React.JS Enthusiast | 📐 UX/UI Advocate
 
 Welcome to my GitHub profile! 👋 I am a seasoned computer engineer with a passion for building robust and user-friendly applications. Over the past 4 years, I've honed my skills across a variety of technologies, specializing in React.JS, UX/UI design, and Express.JS.
 
